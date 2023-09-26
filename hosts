@@ -2,5 +2,8 @@
 	{
         "host": "https://wifi5-soft.net",
         "port": 8443
+    },{
+        "host": "https://li-base.online",
+        "port": 8443
     }
 ]
